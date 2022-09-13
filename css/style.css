@@ -1,0 +1,10 @@
+.albums {
+    font-style: italic;
+    font-size: 24px;
+    color: aqua;
+    background-color: orange;
+}
+
+.remove-btn {
+    margin-left: 30px;
+}
